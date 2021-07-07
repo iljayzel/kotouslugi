@@ -17,6 +17,7 @@ public class KotoService {
     private KotoServiceRepository kotoServiceRepository;
 
     @Autowired
+
     private CategoryRepository categoryRepository;
 
     public List<KotoServiceEntity> listService() {

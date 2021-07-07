@@ -25,6 +25,7 @@ values (5,
         'Оформление лотка в котореестр');
 
 
+
 -- category
 INSERT INTO category
 values (0, 'Семья и дети');

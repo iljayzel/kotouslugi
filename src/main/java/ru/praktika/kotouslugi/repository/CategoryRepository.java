@@ -5,3 +5,4 @@ import ru.praktika.kotouslugi.model.CategoryEntity;
 
 public interface CategoryRepository extends CrudRepository<CategoryEntity, Long> {
 }
+

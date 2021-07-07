@@ -19,6 +19,7 @@ public class KotoServiceEntity {
     private List<CategoryEntity> categories;
 
 
+
     public KotoServiceEntity() {
     }
 

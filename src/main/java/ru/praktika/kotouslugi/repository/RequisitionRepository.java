@@ -6,3 +6,4 @@ import ru.praktika.kotouslugi.model.Requisition;
 public interface RequisitionRepository extends CrudRepository<Requisition, Long> {
 
 }
+
